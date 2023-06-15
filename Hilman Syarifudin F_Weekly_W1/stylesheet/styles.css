@@ -1,0 +1,126 @@
+
+body{
+    background:linear-gradient(90deg,white,rgb(135, 241, 241),white);
+    font-family:Arial;
+    padding-top:80px;
+}
+
+/* this line is for header and photo profile */
+.header{
+    background-image: url(/Img/background.jpg);
+    background-size: 50%;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 30px;
+    height: 215px;
+}
+.photo-profile{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:4px;
+    width: 100px;
+    height: 100x;
+}
+.photo-profile:active {
+        transform: translateY(4px);
+}
+.header-line{
+    height: 50px;
+    background-color: black;
+    border-color: black;
+}
+button{
+    border-color: transparent;
+    background-color: transparent;
+}
+button:hover{
+    cursor:pointer;
+}
+/* this line is for main content */
+.main-content{
+    background: linear-gradient(9deg,rgb(1, 65, 90),rgb(255, 255, 255)) ;
+    margin-top: -27px;
+    margin-right:200px;
+    margin-left:200px;
+    height: 220px;
+
+}
+h1{
+    text-align: center;
+    margin-top: 1px;
+    margin-bottom: 5px;
+    color:white;
+    font-size: 50px;
+}
+h2,h3{
+    text-align: center;
+    margin-top: 1px;
+    margin-bottom: 5px;
+    color:white;
+    font-size: 40px;
+}
+.main-line{
+    height: 25px;
+    background-color: black;
+    border-color: black;
+    
+}
+/* this line is for navigation content*/
+.navigation{
+    background: #AEE2FF;
+    border-radius: 30px;
+    margin-left: 0px;
+    margin-right:20px;
+    height: 10px;
+    margin-top:178px;
+    display: inline-block;
+    height:110px;
+}
+.nav-ul li{
+    display: inline-block;
+}
+.bottom-line{
+    background:#AEE2FF;
+    height:25px;
+    width:1120px;
+    margin-top: -135px;
+}
+
+/* this line is for icon */
+.contact-icon{
+    width: 79px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    padding-right: 25px;
+}
+
+.aboutme-icon{
+    width: 79px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    padding-right: 25px;
+}
+.home-icon{
+    width:80px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.porto-icon{
+    width:80px;
+    margin-bottom: 20px;
+    margin-left: 240px;
+}
+.contact-icon:hover, .aboutme-icon:hover, .home-icon:hover, .porto-icon:hover{
+    -webkit-transition: 1500ms ease all;
+    -moz-transition: 1500ms ease all;
+    -o-transition: 1500ms ease all;
+    transition: 1500ms ease all;
+    transform: rotate(360deg);
+}
+/* this line is for footer */
+.footer{
+    margin-left:230px;
+    margin-top:140px;
+    text-align: left;
+}
