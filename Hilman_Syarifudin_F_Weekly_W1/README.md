@@ -33,7 +33,7 @@ Aplikasi ini dibangun dengan menggunakan :
 
 And I have some animation here
 
-![After Input Name and Click Ok](/week-1-Hill-Man-1/Hilman_Syarifudin_F_Weekly_W1/Img/Animation.jpg "After Input Name and Click Ok")
+![Animation](/week-1-Hill-Man-1/Hilman_Syarifudin_F_Weekly_W1/Img/Animation.jpg "Animation")
 
 ## Credit
 
