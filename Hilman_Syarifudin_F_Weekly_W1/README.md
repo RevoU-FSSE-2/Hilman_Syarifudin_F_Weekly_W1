@@ -25,15 +25,15 @@ Aplikasi ini dibangun dengan menggunakan :
 
 ## Website View
 
-![Home View](/week-1-Hill-Man-1/Hilman_Syarifudin_F_Weekly_W1/Img/Home-View.jpg "Home View")
+![Home View](/week-1-Hill-Man-1/Hilman_Syarifudin_F_Weekly_W1/Img/Home-View.jpg)
 
-![Click Me and Input Name](/week-1-Hill-Man-1/Hilman_Syarifudin_F_Weekly_W1/Img/Click-Me-and-Input-Name.jpg "Click Me and Input Name")
+![Click Me and Input Name](/week-1-Hill-Man-1/Hilman_Syarifudin_F_Weekly_W1/Img/Click-Me-and-Input-Name.jpg)
 
-![After Input Name and Click Ok](/week-1-Hill-Man-1/Hilman_Syarifudin_F_Weekly_W1/Img/After-Input-Name.jpg "After Input Name and Click Ok")
+![After Input Name and Click Ok](/week-1-Hill-Man-1/Hilman_Syarifudin_F_Weekly_W1/Img/After-Input-Name.jpg)
 
 And I have some animation here
 
-![Animation](/week-1-Hill-Man-1/Hilman_Syarifudin_F_Weekly_W1/Img/Animation.jpg "Animation")
+![Animation](/week-1-Hill-Man-1/Hilman_Syarifudin_F_Weekly_W1/Img/Animation.jpg)
 
 ## Credit
 
