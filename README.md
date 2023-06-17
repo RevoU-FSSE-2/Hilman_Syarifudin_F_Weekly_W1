@@ -25,15 +25,15 @@ Aplikasi ini dibangun dengan menggunakan :
 
 ## Website View
 
-![Home View](/Hilman_Syarifudin_F_Weekly_W1/Img/Home-View.jpg)
+![Home View](./Img/Home-View.jpg)
 
-![Click Me and Input Name](/Hilman_Syarifudin_F_Weekly_W1/Img/Click-Me-and-Input-Name.jpg)
+![Click Me and Input Name](./Img/Click-Me-and-Input-Name.jpg)
 
-![After Input Name and Click Ok](/Hilman_Syarifudin_F_Weekly_W1/Img/After-Input-Name.jpg)
+![After Input Name and Click Ok](./Img/After-Input-Name.jpg)
 
 And I have some animation here
 
-![Animation](/Hilman_Syarifudin_F_Weekly_W1/Img/Animation.jpg)
+![Animation](./Img/Animation.jpg)
 
 ## Credit
 
